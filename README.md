@@ -1,8 +1,10 @@
 <div align=center> 
  
  # Weather App
-
-<img src="https://i.postimg.cc/VN4hDSWM/imagem.png" alt="Weather-App" width="350px" >
+ 
+<a href="https://rebeccanayala.github.io/Weather-App">Website</a>
+ 
+<a href="https://rebeccanayala.github.io/Weather-App"><img src="https://i.postimg.cc/VN4hDSWM/imagem.png" width="350px"></a>
  
 </div>
 
@@ -25,8 +27,13 @@ This is an exercise proposed by Isadora Stangarlin @papodedev with the intention
 ##  :rocket: Technologies
 
 * HTML5
-* CSS3
+* CSS3 
 
+<div align="right">
+
+###### Made with :heart:
+ 
+</div>
 
 
 
