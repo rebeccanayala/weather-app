@@ -27,7 +27,11 @@ This is an exercise proposed by Isadora Stangarlin @papodedev with the intention
 * HTML5
 * CSS3 
 
+<div align="right">
+
 ###### Made with :heart:
+ 
+</div>
 
 
 
