@@ -1,8 +1,10 @@
 <div align=center> 
  
  # Weather App
-
-<img src="https://i.postimg.cc/VN4hDSWM/imagem.png" alt="Weather-App" width="350px" >
+ 
+<a href="https://rebeccanayala.github.io/Weather-App" target="_blank">Website</a>
+ 
+<a href="https://rebeccanayala.github.io/Weather-App" target="_blank"><img src="https://i.postimg.cc/VN4hDSWM/imagem.png" width="350px"></a>
  
 </div>
 
