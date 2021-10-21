@@ -25,7 +25,9 @@ This is an exercise proposed by Isadora Stangarlin @papodedev with the intention
 ##  :rocket: Technologies
 
 * HTML5
-* CSS3
+* CSS3 
+
+###### Made with :heart: by me :)
 
 
 
