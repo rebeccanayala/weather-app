@@ -2,9 +2,9 @@
  
  # Weather App
  
-<a href="https://rebeccanayala.github.io/weather-App">Website</a>
+<a href="https://rebeccanayala.github.io/weather-app">Website</a>
  
-<a href="https://rebeccanayala.github.io/weather-App"><img src="https://i.postimg.cc/VN4hDSWM/imagem.png" width="350px"></a>
+<a href="https://rebeccanayala.github.io/weather-app"><img src="https://i.postimg.cc/VN4hDSWM/imagem.png" width="350px"></a>
  
 </div>
 
